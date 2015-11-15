@@ -19,6 +19,7 @@ public class WordSearch {
             }
         }
         return false;
+
     }
 
     public boolean hasValidSubStr(char[][] board, String word, int i, int j, int wordIndex, boolean[][] visited){
