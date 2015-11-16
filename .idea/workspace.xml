@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ab1f9a6-b860-4b4c-93fa-f5b48e3aad9a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordSearch.java" afterPath="$PROJECT_DIR$/src/WordSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Trie.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,12 +26,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WordSearch.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WordSearch.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40894568" vertical-offset="0" max-vertical-offset="1152">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1152">
               <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trie.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Trie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.3697479" vertical-offset="0" max-vertical-offset="2496">
+              <caret line="94" column="60" selection-start-line="94" selection-start-column="60" selection-end-line="94" selection-end-column="60" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#2067#2088#0" expanded="true" />
+                <element signature="e#2164#2165#0" expanded="true" />
+                <element signature="e#2190#2191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +73,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
+        <option value="$PROJECT_DIR$/src/Trie.java" />
       </list>
     </option>
   </component>
@@ -122,6 +140,24 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Leetcode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Trie.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -422,12 +458,12 @@
       <changelist id="5ab1f9a6-b860-4b4c-93fa-f5b48e3aad9a" name="Default" comment="" />
       <created>1447629969792</created>
       <updated>1447629969792</updated>
-      <workItem from="1447629973194" duration="619000" />
+      <workItem from="1447629973194" duration="824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="619000" />
+    <option name="totallyTimeSpent" value="824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1095" extended-state="6" />
@@ -484,9 +520,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40894568" vertical-offset="0" max-vertical-offset="1152">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1152">
           <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.3697479" vertical-offset="0" max-vertical-offset="2496">
+          <caret line="94" column="60" selection-start-line="94" selection-start-column="60" selection-end-line="94" selection-end-column="60" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#2067#2088#0" expanded="true" />
+            <element signature="e#2164#2165#0" expanded="true" />
+            <element signature="e#2190#2191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
